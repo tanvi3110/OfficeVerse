@@ -1,0 +1,129 @@
+body{
+	background-image: url(paper.jpg);
+	background-size: cover;
+	opacity: 0.9;
+}
+
+.box{
+	display: block;
+    text-align: center;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+
+	
+}
+
+.box1{
+	display: block;
+    text-align: center;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 100px;
+	padding-right: 100px;
+	
+}
+form{
+	display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+	
+}
+#form{
+	text-align: center;	
+	display: inline-block;
+}
+#th1{
+	border-style: solid;
+	border-width: medium;
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-bottom: 25px;
+	font-family: monospace;
+	font-size: 20px;
+	background-color: #686868;	
+	
+}
+
+#th2{
+	border-style: solid;
+	border-width: medium;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-bottom: 5px;
+	font-family: monospace;
+	font-size: 15px;
+	background-color: #686868;	
+	
+}
+
+#stylist{
+	margin: 20px auto;
+	text-align: center;
+	border: 3px solid;
+	border-radius: 20px;
+}
+
+#stylist:hover{
+	background: #99CCFF;
+}
+
+#client{
+	margin: 20px auto;
+	text-align: center;
+	border: 3px solid;
+	border-radius: 20px;
+}
+#client:hover{
+	background: #99CCFF;
+}
+
+#appointment{
+	margin: 20px auto;
+	text-align: center;
+	border: 3px solid;
+	border-radius: 20px;
+}
+#appointment:hover{
+	background: #99CCFF;
+}
+#order{
+	margin: 20px auto;
+	text-align: center;
+	border: 3px solid;
+	border-radius: 20px;
+}
+#order:hover{
+	background: #99CCFF;
+}
+.title{	
+	text-decoration: underline;
+	text-align: center;
+}
+
+.top{
+	background-color: lightBlue;
+	text-align: center;
+	padding: 1px;
+	margin-bottom: 20px;
+}
+#toolbar{
+	font: 22px;
+	padding-bottom: 5px;
+}
+
+button, input {
+	  border: none;
+	  padding: 12px 18px;
+	  text-align: center;
+	  text-decoration: none;
+	  display: inline-block;
+	  font-size: 12px;
+	  font-family: "Georgia", Times, serif;
+	  margin: 4px 2px;
+	  cursor: pointer;
+	  border-radius: 15px;
+	  border-inline: solid;
+	}

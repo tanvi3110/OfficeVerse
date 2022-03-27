@@ -1,0 +1,117 @@
+body.cl{
+	background-color: #DEDEE8;
+}
+body.c2{
+	background-color: white;
+}
+h1{
+	text-align: center;
+	background-color: #9FC5E8;
+	font-family: Papyrus, "Lucida Console", "Courier New", monospace;
+}
+
+table, th, td{
+	margin-left: 62.5%;
+	margin-rigth: 2.5%;
+	text-align: center;
+	border: thin solid black;
+	padding: 3px;
+	width: 35%;
+	background-color:#CDCDCD;
+	font-family: "Lucida Console", Papyrus;
+}
+
+.white{
+	text-align: center;
+	border: thin solid black;
+	padding: 3px;
+	width: 50%;
+	background-color:white;
+}
+
+caption{
+	font-weight:bold;
+	color:blue;
+	font-size:large;
+	background-color:#CDCDCD;
+	border: thin solid black;
+}
+
+img.change{
+	width:55%;
+	float: right;
+}
+
+img.change2{
+	width:60%;
+	float: left;
+}
+
+img.change3{
+	width:20%;
+	float: left;
+	margin-right: 10px;
+}
+
+.new{
+	float: right;
+}
+
+.italic {
+	font-style: italic;
+}
+
+h2.h2H {
+	color: #C54B76;
+	text-align: center;
+	font-family: Helvetica, Arial, Sans-serif;
+}
+
+h2.h3H {
+	color: #black;
+	text-align: center;
+	font-family: Helvetica, Arial, Sans-serif;
+}
+.tourH {
+	color: #F0E933;
+	text-align: center;
+	background-color: #4EA112;
+	font-family: Arial, Sans-serif, Helvetica;
+}
+
+.factH {
+	color: #C54B76;
+	text-align: center;
+}
+
+.FFH{
+	color: #2844A4;
+	font-weight: bold;	
+	background-color: #FAFBAD;
+}
+
+.AL{
+	color: #7122A5;
+	background-color: #A8F4FA;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.Alst{
+	color: #1864AF;
+}
+
+.Blst{
+	color: #0A8037;
+}
+
+.Clst{
+	font-family: Papyrus, Serif, arial;
+	font-weight: bold;
+	text-align: center;
+	list-style-position: inside;
+	color: #2E43EA;
+}
+
+p.tb{
+	color: #D44F08;
+}
